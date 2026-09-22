@@ -1,1 +1,3 @@
 # BasicInformationalSite
+
+Node practice session
